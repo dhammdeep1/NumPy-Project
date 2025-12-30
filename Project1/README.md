@@ -1,0 +1,2 @@
+This is My very first project for NumPy Arrays. Here I have generated random temperature data for 365 days of the 
+year. After that I collected the day with maximum temperature of the year and day with the minimum temperature of the year. With an average temperature of the year, and temperature deviation for each day form the average temperature. And in the last I calculated the number of days with extreme hottest temperature and extreme lowest temperature.
